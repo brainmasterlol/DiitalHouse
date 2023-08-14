@@ -1,0 +1,39 @@
+/*Reglas CSS
+
+selector{
+    propiedad: "valor";
+}
+
+*/
+
+/*
+
+Selector de etiqueta
+Selector de clase
+Selector de id
+
+*/
+
+
+
+h1.titulo{
+    color: red;
+}
+
+.titulo{
+    background-color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer p{
+    color: blue;
+}
+
+.parrafo1{
+    font-size: 24px;
+}
+
+span{
+    background-color: rgb(100, 100, 100);
+    font-size: 1em;
+}

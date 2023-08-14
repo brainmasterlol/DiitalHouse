@@ -1,0 +1,100 @@
+body{
+    margin: 0%;
+}
+
+header{
+    text-align: center;
+    background-color: #E6E6E6;
+    height: 188.19px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.batman img{
+    width: 100px;
+    height: 146.37px;
+}
+
+main h1{
+    font-family: 'Times New Roman', Times, serif;
+    size: 35px;
+    font-weight: 700;
+    line-height: 29.64px;
+    background-color: #C4C4C4;
+    margin-top: 0;
+    height: 60px;
+    top: 188px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 0.3em;
+    color: #005677;
+}
+
+
+div h3{
+    font-weight: 700;
+    size: 20px;
+    line-height: 16.94px;
+    letter-spacing: 0.3em;
+    color: #005677;
+    background-color: #C4C4C4;
+    height: 30px;
+    top: 376px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding-left: 15px;
+}
+
+main div{
+    font-family: 'Times New Roman', Times, serif;
+}   
+
+.datos{
+    size: 15px;
+}
+
+.negrita li{
+    size: 15px;
+}
+
+.datos span{
+    font-weight: bold; 
+    font-style: italic; 
+}
+
+.negrita span{
+    font-weight: bold;
+}
+
+footer{
+    height: 37px;
+    background-color: #005677;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer p,
+footer img{
+    display: inline;
+    margin-right: 20px;
+    vertical-align: middle;
+}
+footer p{
+    font-family: 'Times New Roman', Times, serif;
+    size: 20px;
+    color: #FFFFFF;
+}
+
+footer img{
+    height: 20px;
+    width: 20px;
+}
+
+.espacio{
+    font-weight: bold;
+    color: white;
+}
